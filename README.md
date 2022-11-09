@@ -1,4 +1,4 @@
-# ether_wallet_flutter_0707
+# flutter_app
 
 A new Flutter project.
 
